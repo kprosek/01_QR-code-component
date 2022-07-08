@@ -34,3 +34,8 @@ img {
   margin: 15px auto;
   border-radius: 10px;
 }
+.attribution, a {
+  text-align: center;
+  font-size: 12px;
+  color: hsl(220, 15%, 55%);
+}
